@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employeeMap>
+        <entry>
+            <key>1</key>
+            <value>
+                <id>1</id>
+                <firstName>Lokesh</firstName>
+                <lastName>Gupta</lastName>
+            </value>
+        </entry>
+        <entry>
+            <key>2</key>
+            <value>
+                <id>2</id>
+                <firstName>John</firstName>
+                <lastName>Mclane</lastName>
+            </value>
+        </entry>
+    </employeeMap>
+</employees>

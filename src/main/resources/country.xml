@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Country>
+    <name>Spain</name>
+    <capital>Madrid</capital>
+    <foundation/>
+    <continent>Europe</continent>
+    <population>45000</population>
+    <importance>1</importance>
+</Country>
